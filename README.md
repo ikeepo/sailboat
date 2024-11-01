@@ -13,3 +13,4 @@ information about sailboat
 - 增加一个生成docs的程序
 # Refs
 [Github Pages](https://pages.github.com/)
+[Google Scholar](https://scholar.google.com.hk/)
