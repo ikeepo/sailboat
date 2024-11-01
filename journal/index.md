@@ -1,0 +1,9 @@
+@article{缪国平1994帆船运动的力学原理,
+  title={帆船运动的力学原理},
+  author={缪国平},
+  journal={力学与实践},
+  volume={16},
+  number={1},
+  pages={9--18},
+  year={1994}
+}
