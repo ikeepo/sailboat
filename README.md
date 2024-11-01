@@ -1,7 +1,5 @@
 # sailboat
 information about sailboat
-## 仓库结构
-用docs作为pages，相比于单独的pages分支而言，不用重复整理底层文档
 ## TODO 
 - 增加一个程序，填写书籍后，通过相关数据生成people文件夹对应作者的结构  
 	同时具备一个功能：创建书目表格结构  
